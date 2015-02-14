@@ -1,6 +1,6 @@
 {
   "name": "testRelease",
-  "version": "17.1.4",
+  "version": "17.1.5",
   "devDependencies": {
     "grunt-bump": "0.0.13",
     "grunt-contrib-uglify": "^0.7.0",
