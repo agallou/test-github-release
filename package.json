@@ -1,6 +1,6 @@
 {
   "name": "testRelease",
-  "version": "17.1.12",
+  "version": "17.1.13",
   "devDependencies": {
     "curlrequest": "^0.3.10",
     "grunt-bump": "0.0.13",
