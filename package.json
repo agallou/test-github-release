@@ -1,6 +1,6 @@
 {
   "name": "testRelease",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "devDependencies": {
     "grunt-bump": "0.0.13",
     "grunt-github-releaser": "^0.1.17"
